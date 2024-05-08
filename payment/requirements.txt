@@ -5,3 +5,6 @@ pika
 prometheus_client
 opentracing
 instana
+PyYAML==5.1
+fastapi[all] < 0.109.0
+python-multipart < 0.0.6
